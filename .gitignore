@@ -44,4 +44,4 @@ app.*.map.json
 /android/app/release
 
 # Hide files
-lib/main.dart
+main.dart
