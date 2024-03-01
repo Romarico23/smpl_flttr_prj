@@ -30,13 +30,14 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
-.main.dart
 
 # Symbolication related
 app.*.symbols
 
 # Obfuscation related
 app.*.map.json
+
+.lib/main.dart
 
 # Android Studio will place build artifacts here
 /android/app/debug
